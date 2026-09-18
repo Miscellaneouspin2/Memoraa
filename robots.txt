@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /customer-workspace.html
+Disallow: /admin-dashboard.html
+Disallow: /api/
+Sitemap: https://miscellaneouspin2.github.io/Memoraa/sitemap.xml
