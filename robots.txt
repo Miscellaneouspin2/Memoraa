@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /customer-workspace.html
+Disallow: /admin-dashboard.html
+Disallow: /customer-workspace(8).html
+Disallow: /admin-dashboard(8).html
+Disallow: /api/
+Sitemap: __DOMAIN__/sitemap.xml
