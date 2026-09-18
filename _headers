@@ -1,0 +1,13 @@
+/customer-workspace.html
+  Cache-Control: private, no-store, no-cache, must-revalidate
+  X-Robots-Tag: noindex, nofollow, noarchive
+/admin-dashboard.html
+  Cache-Control: private, no-store, no-cache, must-revalidate
+  X-Robots-Tag: noindex, nofollow, noarchive
+/api/*
+  Cache-Control: private, no-store
+  X-Robots-Tag: noindex, nofollow, noarchive
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
